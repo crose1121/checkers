@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    line-height: 0px;
+}
+
+.blackbox {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+}
+
+.redbox {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+}
